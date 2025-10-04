@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/emeraldlevels/BLUE-XMD/stargazers"><img src="https://img.shields.io/github/stars/emeraldlevels/BLUE-XMD?color=8A2BE2&style=for-the-badge"></a>
-  <a href="https://github.com/emeraldlevels/BLUE-XMD/network/members"><img src="https://img.shields.io/github/forks/emeraldlevels/BLUE-XMD?color=00FFFF&style=for-the-badge"></a>
-  <a href="https://github.com/emeraldlevels/BLUE-XMD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/emeraldlevels/BLUE-XMD?color=purple&style=for-the-badge"></a>
+  <a href="https://github.com/KAMRAN-XMD/ZONE-MD/stargazers"><img src="https://img.shields.io/github/stars/KAMRAN-XMD/ZONE-MD?color=8A2BE2&style=for-the-badge"></a>
+  <a href="https://github.com/KAMRAN-XMD/ZONE-MD/network/members"><img src="https://img.shields.io/github/forks/KAMRAN-XMD/ZONE-MD?color=00FFFF&style=for-the-badge"></a>
+  <a href="https://github.com/KAMRAN-XMD/ZONE-MD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/KAMRAN-XMD/ZONE-MD?color=purple&style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/Version-v1.2.0-blue?style=for-the-badge">
 </p>
 
@@ -30,8 +30,8 @@
 
 ## ⚡ Installation
 ```bash
-git clone https://github.com/emeraldlevels/BLUE-XMD
-cd BLUE-XMD
+git clone https://github.com/ZONE-MD
+cd ZONE-MD
 npm install
 node index.js
 ```
@@ -39,11 +39,11 @@ node index.js
 ---
 
 ## 🌐 Links & Community
-- 📢 [Bot Channel](https://whatsapp.com/channel/0029Vb6OLyzEAKWFsk7REX3r)
-- 💻 [GitHub Repo](https://github.com/emeraldlevels/BLUE-XMD)
-- 🎥 [YouTube](https://www.youtube.com/@EmeraldLevels)
-- 🎵 [TikTok](https://tiktok.com/@emeralds.levels)
+- 📢 [Bot Channel](https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O)
+- 💻 [GitHub Repo](https://github.com/KAMRAN-XMD/ZONE-MD)
+- 🎥 [YouTube](https://www.youtube.com/@DRKAMRAN)
+- 🎵 [TikTok](https://tiktok.com/@DRKAMRAN)
 
 ---
 
-<p align="center">✨ Built with ❤️ by <b>Mr Emerald</b> ✨</p>
+<p align="center">✨ Built with ❤️ by <b>Mr DRKAMRAN</b> ✨</p>
